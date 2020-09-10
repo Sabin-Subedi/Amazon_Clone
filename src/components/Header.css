@@ -69,3 +69,8 @@
 .header__basketCount {
   margin: 0 10px;
 }
+
+.menu {
+  width: 30px;
+  height: 30px;
+}
